@@ -1,2 +1,4 @@
 # Text_similarity_Artificial_Computation_Course_of_BIT
 北京理工大学2019级-智能计算课程实践作业
+实验主要使用paddle框架和蚂蚁金服语义相似度数据，是分类问题。
+比较了LSTM、CNN、Transformer、Bert的编码能力。
